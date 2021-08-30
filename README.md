@@ -6,3 +6,4 @@
 - [Equipo_1-Ejercicio base de datos](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Equipo_1-Ejercicio%20base%20de%20datos.pdf?fbclid=IwAR1V2EHwcevqeo15r-7bNvPhj-hT3wfVf0Xrz36qan0gHuDRzaGyRm4fxaM)
 - [Ej_Python_1853849](https://github.com/Garcia-Gutierrez-Alfonso/Mineria_de_Datos/blob/main/Ej_Python_1853849.ipynb)
 - [Limpieza de datos 1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Ej_Limpieza_Equipo1.ipynb)
+- [Avance1 Pia Equipo 1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo1.ipynb?fbclid=IwAR34fLjG1tzYj5PZFoyPXM5yJ4vMGGsdbHIIee8qedGLdYxuAU3gD0IV9Ig)
