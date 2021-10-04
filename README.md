@@ -12,3 +12,5 @@
 - [Presentacion equipo 1: Regresion lineal](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Presentaci%C3%B3n_Regresion-Lineal_Equipo1.pdf?fbclid=IwAR0AdKBm09Ga54iEXhG85nlz-EeJsewr8dm5WvhmJ_KBZugsa1rhvXEzr64)
 - [Codigo del programa Regresion lineal](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Programa_Regresi%C3%B3n-Lineal_Equipo1.r?fbclid=IwAR3u69K8Fo2h6Tf-m7mi7XVhJCBO2lAYmDJhk36gTT_fFCHgd_NlYWgw0WI)
 - [Preguntas del equipo 1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Preguntas_Regresi%C3%B3n-Lineal_Equipo1.pdf?fbclid=IwAR12kkQITUd2-rz8R6KugHhXOYD3EIERHveW3lK5tktEWuUlmRf_UJyHMPc)
+- [Práctica de visualización equipo 1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Visualizacion_Equipo1.ipynb)
+- [Avance2 Pia Equipo 1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Avance2_PIA_Equipo1.ipynb)
