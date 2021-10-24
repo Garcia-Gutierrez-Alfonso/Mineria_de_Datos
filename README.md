@@ -15,4 +15,7 @@
 - [Práctica de visualización equipo 1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Visualizacion_Equipo1.ipynb)
 - [Avance2 Pia Equipo 1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Avance2_PIA_Equipo1.ipynb)
 - [Técnicas de Minería de datos para PIA](https://github.com/IsabelRangel/Mineria_datos/blob/main/Pr%C3%A1ctica_T%C3%A9cnicas.ipynb)
+
+## Fase 3
 - [Notebook final](https://github.com/IsabelRangel/Mineria_datos/blob/main/PIA_Equipo1.ipynb)
+- [Póster](https://github.com/IsabelRangel/Mineria_datos/blob/main/Poster_Equipo1.pdf)
